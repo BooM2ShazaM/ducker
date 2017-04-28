@@ -1,3 +1,3 @@
 # ducker
 Sarthak Treat de
-Chinmay treat!!
+Chinmay treat!
